@@ -20,4 +20,4 @@ spec:
     spec:
       containers:
       - name: frontend-container
-        image: aksacrregistryy.azurecr.io/bloggerapp
+        image: aksacrregistryy.azurecr.io/bloggerapp:#{Build.BuildId}#
