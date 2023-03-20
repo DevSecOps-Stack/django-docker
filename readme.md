@@ -1,11 +1,17 @@
 Helm structure
 ------------------
 Chart.yaml
+
 Values.yaml
+
 Templates
+
 	Deployment.yaaml
+	
 	Service.yaml
+	
 	_helpers.tbl
+	
 	Ingress.yaml
 	
 Commands
