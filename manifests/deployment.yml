@@ -20,4 +20,4 @@ spec:
     spec:
       containers:
       - name: frontend-container
-        image: djangoaks.azurecr.io/djangoaks:#{Build.BuildId}#
+        image: rakesha/dockerdjango:58
